@@ -97,6 +97,7 @@
         </style>
 </head>
 <body>
+    <!--Esto es un ejemplo de cambio aber si funciona-->
     <section class="auto-style1">
        &nbsp;&nbsp;
        <img src="imagenes/membrete2022.png" class="auto-style2" >
